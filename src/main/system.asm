@@ -250,7 +250,7 @@ ready_info:
     db 'SYSTEM READY', 0x00
 
 command_nf:
-	db 'program not found', 0x00
+	db 'command not found', 0x00
 
 info_system:
     db 'STATUS=LOADED', 0x00
