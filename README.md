@@ -22,6 +22,6 @@ git clone --depth 1 https://github.com/YILDIRIMT/puitiesiu.git && cd puitiesiu &
 </details>
 
 ### Run (in puitiesiu/src/main/)
-bash```
+```bash
 make run
 ```
