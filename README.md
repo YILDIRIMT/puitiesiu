@@ -5,32 +5,23 @@ puitiesiu basic embedded system
 
 * `qemu`, `make`, `nasm`
   
-### Build
+### Install (Automatic)
+```bash
+git clone --depth 1 https://github.com/YILDIRIMT/puitiesiu.git && cd puitiesiu && sh ./installer.sh
+```
+<details>
+<summary>Install Manual</summary>
+<code>git clone https://github.com/YILDIRIMT/puitiesiu</code><br>
+<code>cd puitiesiu</code><br>
+<code>cd src</code><br>
+<code>cd boot</code><br>
+<code>make</code><br>
+<code>cd ..</code><br>
+<code>cd main</code><br>
+<code>make</code>
+</details>
 
-```bash
-git clone https://github.com/YILDIRIMT/puitiesiu
-```
-```bash
-cd puitiesiu
-```
-```bash
-cd src
-```
-```bash
-cd boot
-```
-```bash
-make
-```
-```bash
-cd ..
-```
-```bash
-cd main
-```
-```bash
-make
-```
-```bash
+### Run (in puitiesiu/src/main/)
+bash```
 make run
 ```
