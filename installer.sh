@@ -5,7 +5,6 @@ clear
    	cd ..
     	cd main
    	make
-   	make run
     	cd .. && cd ..
      	clear
 	echo -e "\033[31m Installed!\033[0m"
