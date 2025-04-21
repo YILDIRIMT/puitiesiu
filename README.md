@@ -1,9 +1,5 @@
 # puitiesiu
 puitiesiu basic embedded system
-
-### Dependencies
-
-* `qemu`, `make`, `nasm`
   
 ### Install (Automatic)
 ```bash
