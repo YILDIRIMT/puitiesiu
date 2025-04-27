@@ -1,7 +1,0 @@
-system command
-
-po "shutdown"
-reboot "reboot system"
-mop "clear tty"
-output "print string"
-systeminfo "show system version"
