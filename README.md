@@ -1,6 +1,3 @@
-# puitiesiu
-puitiesiu basic embedded system
-  
 ### Build (Automatic)
 ```bash
 git clone --depth 1 https://github.com/YILDIRIMT/puitiesiu.git && cd puitiesiu && sh ./autobuild.sh
